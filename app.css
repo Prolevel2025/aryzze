@@ -89,6 +89,7 @@ flex-shrink: 0;
 @media(max-width:600px){
 
     body{
+        position: absolute;
         overflow: hidden;
         margin: 0;
         
